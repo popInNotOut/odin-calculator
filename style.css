@@ -92,7 +92,7 @@ body {
 
 .orange {
     background-color: orange;
-}
+} 
 
 .two-cells {
     grid-column: 1 / 3;
