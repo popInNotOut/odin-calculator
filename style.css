@@ -1,0 +1,23 @@
+/* START OF TYPE SELECTORS */
+html {
+    font-family: "Impact", "Haettenschweiler", "Arial Narrow Bold", "sans-serif";
+    font-size: 14px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    min-height: 100vh;
+}
+/* END OF TYPE SELECTORS */
+
+
+
+/* START OF ID SELECTORS */
+/* END OF ID SELECTORS */
+
+
+
+/* START OF CLASS SELECTORS */
+/* END OF CLASS SELECTORS */
