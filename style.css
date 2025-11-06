@@ -92,10 +92,24 @@ body {
 
 .orange {
     background-color: orange;
-} 
+}
 
 .two-cells {
     grid-column: 1 / 3;
+}
+
+.error-mssg-label {
+    font-size: 1.5rem;
+    color: red;
+}
+
+.copyright-label {
+    font-size: 1rem;
+    color: white;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 /* END OF CLASS SELECTORS */
 
