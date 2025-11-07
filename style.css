@@ -99,12 +99,23 @@ body {
 }
 
 .copyright-label {
-    font-size: 1rem;
     color: white;
     flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+@media (min-width: 768px) {
+  .copyright-label {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 767px) {
+  .copyright-label {
+    font-size: 14px;
+  }
 }
 /* END OF CLASS SELECTORS */
 
